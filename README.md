@@ -98,8 +98,6 @@ The final design required multiple **print–test–redesign iterations**, reinf
 - Designing for maintainability is as important as functionality
 - Trial-and-error is a core part of real engineering work
 
----
-
 ## Challenging & Time-Consuming Components
 
 ### Gripper Design
