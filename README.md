@@ -6,7 +6,7 @@ This project is a **Version 1 (V1) robotic arm** designed and built from scratch
 
 The primary goal of this project was to gain hands-on experience with the **full robotics engineering pipeline**: mechanical design, electronics, power management, embedded programming, debugging, and iterative improvement.
 
-This project serves as a foundational platform for future upgrades toward **industrial-style manipulation, autonomy, and AI-assisted perception**.
+This project serves as a foundational platform for future upgrades toward **industrial-style manipulation, autonomy, and AI-assisted perception**. 
 
 ## System Architecture
 
@@ -15,7 +15,6 @@ This project serves as a foundational platform for future upgrades toward **indu
   - **3 × MS24 high-torque servos** (base, shoulder, elbow)
   - **3 × SG90 micro servos** (wrist axes + gripper)
 - Fully **custom 3D-printed arm links, joints, and gripper**
-- Modular design enabling rapid reprinting and iteration
 
 ### Electronics
 - **Arduino Nano** (main microcontroller)
@@ -166,9 +165,6 @@ These limitations directly inform the next design iteration.
 
 ## Media & Documentation
 CAD Files: 
-
-Firmware:
-
 Wiring Diagram:
 
 
