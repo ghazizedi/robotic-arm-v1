@@ -1,4 +1,4 @@
-# Robotic Arm V1 – 6-DOF Servo-Controlled Manipulator
+# 6-DOF Robotic Arm V1
 
 ## Overview
 
@@ -12,7 +12,7 @@ This project serves as a foundational platform for future upgrades toward **indu
 
 ### Mechanical
 - **6 total joints**
-  - **3 × MG995 high-torque servos** (base, shoulder, elbow)
+  - **3 × MS24 high-torque servos** (base, shoulder, elbow)
   - **3 × SG90 micro servos** (wrist axes + gripper)
 - Fully **custom 3D-printed arm links, joints, and gripper**
 - Modular design enabling rapid reprinting and iteration
