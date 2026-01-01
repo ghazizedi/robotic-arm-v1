@@ -1,4 +1,7 @@
-# 6-DOF Robotic Arm V1
+# Neo V1 (6-DOF Robotic Arm)
+
+### Final Build
+![Neo V1](media/images/IMG_4748.png)
 
 ## Overview
 
