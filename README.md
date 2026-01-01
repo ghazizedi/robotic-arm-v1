@@ -10,6 +10,9 @@ The primary goal of this project was to gain hands-on experience with the full r
 
 This project serves as a foundational platform for future upgrades toward industrial-style manipulation, autonomy, and AI-assisted perception. 
 
+### Demo Video
+![Watch the demo](media/videos/IMG_4490.mp4)
+
 ## System Architecture
 
 ### Mechanical
