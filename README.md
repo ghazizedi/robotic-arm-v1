@@ -170,9 +170,7 @@ These limitations directly inform the next design iteration.
 - Structural ribs and optimized print orientation
 - Fewer fasteners with better mechanical interfaces
 
-## Media & Documentation
-CAD Files: 
-Wiring Diagram:
-
+## Documentation
+CAD Files: [ ](CAD/Neo_V1.f3d)
 
 
