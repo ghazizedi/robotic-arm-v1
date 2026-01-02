@@ -47,11 +47,13 @@ This project serves as a foundational platform for future upgrades toward indust
   - Mode 2: Elbow + Wrist
   - Mode 3: Wrist rotation + Gripper
 
-This approach mirrors real robotic systems where **context-based input switching** is used to manage complex systems with limited controls.
+This approach mirrors real robotic systems where context-based input switching is used to manage complex systems with limited controls.
 
 ## CAD & Mechanical Design (Fusion 360)
 
-All mechanical components were designed in **Autodesk Fusion** using a parametric modeling workflow.
+All mechanical components were designed in Autodesk Fusion using a parametric modeling workflow.
+
+![Neo V1 CAD](media/images/Neo_V1_3D_Model.png)
 
 ### Key Design Challenges
 - **Tolerances & clearances**
