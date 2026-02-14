@@ -172,6 +172,7 @@ These limitations directly inform the next design iteration.
 
 ## Documentation
 CAD Files: [Neo V1](CAD/Neo_V1.f3d)
+Arduino Code: [Neo V1 Code](Code/RobotArmV1Code.ino)
 
 ## License
 See `LICENSE`.
