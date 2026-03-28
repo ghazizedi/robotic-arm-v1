@@ -72,8 +72,11 @@ All mechanical components were designed in Autodesk Fusion using a parametric mo
 
 The final design required multiple **print–test–redesign iterations**, reinforcing the importance of iterative engineering.
 
+### Servo Testing
 ![Servo_Testing](media/images/Servo_test.png)
-Servo Testing
+
+### Prototype Video
+![Watch the demo](media/videos/Prototype_Testing.mp4)
 
 ## What I Learned
 
