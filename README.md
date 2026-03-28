@@ -76,7 +76,7 @@ The final design required multiple **print–test–redesign iterations**, reinf
 ![Servo_Testing](media/images/Servo_test.png)
 
 ### Prototype Video
-![Watch the demo](media/videos/Prototype_Testing.mp4)
+![Prototype Video](media/videos/Prototype_Testing.mp4)
 
 ## What I Learned
 
